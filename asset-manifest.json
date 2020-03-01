@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/first-react-deploy/static/css/main.9e92a134.chunk.css",
-    "main.js": "/first-react-deploy/static/js/main.48d04d5a.chunk.js",
-    "main.js.map": "/first-react-deploy/static/js/main.48d04d5a.chunk.js.map",
+    "main.js": "/first-react-deploy/static/js/main.309e8d0a.chunk.js",
+    "main.js.map": "/first-react-deploy/static/js/main.309e8d0a.chunk.js.map",
     "runtime-main.js": "/first-react-deploy/static/js/runtime-main.d3877102.js",
     "runtime-main.js.map": "/first-react-deploy/static/js/runtime-main.d3877102.js.map",
     "static/js/2.0f53358f.chunk.js": "/first-react-deploy/static/js/2.0f53358f.chunk.js",
     "static/js/2.0f53358f.chunk.js.map": "/first-react-deploy/static/js/2.0f53358f.chunk.js.map",
     "index.html": "/first-react-deploy/index.html",
-    "precache-manifest.8f1a74ac00dcd774990a417c2386b5bf.js": "/first-react-deploy/precache-manifest.8f1a74ac00dcd774990a417c2386b5bf.js",
+    "precache-manifest.0def486a44679c3cbf3570c63454a7c3.js": "/first-react-deploy/precache-manifest.0def486a44679c3cbf3570c63454a7c3.js",
     "service-worker.js": "/first-react-deploy/service-worker.js",
     "static/css/main.9e92a134.chunk.css.map": "/first-react-deploy/static/css/main.9e92a134.chunk.css.map",
     "static/js/2.0f53358f.chunk.js.LICENSE.txt": "/first-react-deploy/static/js/2.0f53358f.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d3877102.js",
     "static/js/2.0f53358f.chunk.js",
     "static/css/main.9e92a134.chunk.css",
-    "static/js/main.48d04d5a.chunk.js"
+    "static/js/main.309e8d0a.chunk.js"
   ]
 }
